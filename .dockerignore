@@ -1,0 +1,16 @@
+.ebextensions
+.scannerwork/
+.vscode/
+dist/
+node_modules/
+.git/
+.gitignore
+.env
+.nvmrc
+.prettierignore
+README.md
+CHANGELOG.md
+.editorconfig
+.eslintrc.json
+.prettierrc.json
+.versionrc.json
